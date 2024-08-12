@@ -3,6 +3,8 @@
 
 This architecture represents a sophisticated ensemble approach to machine learning, combining multiple algorithms and techniques to produce a robust final prediction. Let's break down each component and explain its role in the overall process.
 
+![Arch Diagram](https://github.com/user-attachments/assets/97bd1011-9706-4114-8eff-9c08f6755676)
+
 ## Data Flow and Processing
 
 1. **Input Data**
