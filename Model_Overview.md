@@ -1,6 +1,7 @@
 # Telcom Customer Churn Prediction Model Overview
 
 ## Data Processing Pipeline
+![Model Overview](https://github.com/user-attachments/assets/5519ba46-9dd4-4c5c-9979-f9838d9216ec)
 
 1. **Load Data**
    - Import the Telcom customer churn dataset
